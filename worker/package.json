@@ -1,0 +1,8 @@
+{
+  "name": "omni-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
